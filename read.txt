@@ -1,0 +1,8 @@
+		Poosible joins structure
+    {
+		"url": "https://github.com/LucasCallamullo/CustomsCards",
+		"repo_name": "Lucas Custom Pack",
+		"repo_path": "./repositories/customcards",
+		"should_update": true,
+		"should_read": true
+		}
